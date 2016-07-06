@@ -1,0 +1,10 @@
+This will be the base of a MFK Mentoring Application.  This will be a web application using Java.  So you will see your work in a browser.
+
+Running the Application:
+1) Import the project into Eclipse.  You should be able to go to File->Import in the Eclipse menu.  (You should choose to import an 'Existing Maven Project', but a general existing Eclipse project works too.)
+2) 'MfkApplication.java' is the main class.  To run the application, right click on that class and select Run As -> Java Application.
+3) Once the application has started, open up a browser and go to http://localhost:1911/greeting.  You should see a result. 
+4) http://localhost:1911/greeting?name=UF will change the display on the screen. 
+
+As of right now, this application has one HTML page, (greeting.html) and one object (User.java).
+
